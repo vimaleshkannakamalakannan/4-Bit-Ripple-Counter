@@ -40,3 +40,4 @@ module ex12(out,clk,rst); input clk,rst; output reg [3:0]out; always @ (posedge 
 <img width="826" height="476" alt="image" src="https://github.com/user-attachments/assets/fc1e9bfd-7eda-4703-aa57-c12caa3ae6fd" />
 
 **RESULTS**
+implement 4 bit synchronous up counter and validate functionality
